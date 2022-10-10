@@ -4,4 +4,3 @@
 zope.testrunner
 
 # Add required add-ons
-pas.plugins.authomatic
