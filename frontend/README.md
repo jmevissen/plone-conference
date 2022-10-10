@@ -54,3 +54,5 @@ In case you don't want (or can't) install mrs-developer globally, you can instal
 ```bash
 yarn add -W mrs-developer
 ```
+
+### JM
